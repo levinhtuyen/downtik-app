@@ -1,0 +1,105 @@
+{
+  "schema1": {
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "url": "https://downtik.app/",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://downtik.app/searchresults?q=${search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  },
+  "schema2": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "@id": "kg:/g/11vcl7mn3f",
+    "url": "https://downtik.app/",
+    "mainentityofpage":
+      "https://www.google.com/search?q=downtik&kponly=&kgmid=/g/11vcl7mn3f",
+    "alternatename": [
+      "downtik",
+      "download tiktok",
+      "download youtube",
+      "tải video tiktok",
+      "tải video youtube",
+      "tiktok",
+      "download video"
+    ],
+    "actionableFeedbackPolicy": "https://downtik.app/dieu-khoan-su-dung",
+    "award":
+      "Nền tảng giúp người dùng tải các video trên tiktok, youtube ...",
+    "disambiguatingdescription":
+      "Sứ mệnh của downtik là giúp người dùng tải video tiktok, youtube nhanh chóng, tiện lợi, tiết kiệm thời gian và hoàn toàn miễn phí",
+    "slogan": "tải video tiktok, youtube nhanh chóng, tiện lợi, tiết kiệm thời gian và hoàn toàn miễn phí",
+    "foundingDate": "2023-08-01",
+    "numberOfEmployees": {
+      "@type": "QuantitativeValue",
+      "minvalue": "50",
+      "maxvalue": "300",
+      "value": "140"
+    },
+    "foundingLocation": {
+      "@type": "place",
+      "name": "Hồ Chí Minh",
+      "url": "https://www.wikidata.org/wiki/Q1854",
+      "address": "806 Đ. Âu Cơ, Phường 14, Tân Bình, Thành phố Hồ Chí Minh"
+    },
+    "additionaltype": [
+      "https://en.wikipedia.org/wiki/Real_estate",
+      "https://en.wikipedia.org/wiki/Boarding_house"
+    ],
+    "logo": "https://downtik.app/assets/text.1dba67ba.svg",
+    "email": "downtik@gmail.com",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Tân Bình",
+      "addressCountry": "Việt Nam",
+      "addressRegion": "Hồ Chí Minh",
+      "postalCode": "72100",
+      "streetAddress": "806 Đ. Âu Cơ, Phường 14, Tân Bình, Thành phố Hồ Chí Minh"
+    },
+    "description":
+      "downtik.app video tiktok, youtube nhanh chóng, tiện lợi, tiết kiệm thời gian và hoàn toàn miễn phí",
+    "name": "downtik",
+    "telephone": "",
+    "potentialAction": {
+      "@type": "SubscribeAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://downtik.app/gioi-thieu",
+        "inLanguage": "vn",
+        "actionPlatform": [
+          "http://schema.org/DesktopWebPlatform",
+          "http://schema.org/IOSPlatform",
+          "http://schema.org/AndroidPlatform"
+        ]
+      },
+      "result": {
+        "@type": "Thing",
+        "name": "Mailing List"
+      }
+    },
+    "sameAs": [
+      "https://www.zillow.com/profile/downtik",
+      "https://www.producthunt.com/@downtik",
+      "https://www.beatstars.com/downtik",
+      "https://qiita.com/downtik",
+      "https://www.vingle.net/downtik",
+      "https://www.behance.net/downtik/",
+      "https://www.deviantart.com/downtik",
+      "https://twitter.com/downtik",
+      "https://muckrack.com/downtik",
+      "https://www.twitch.tv/downtik/about",
+      "https://pantip.com/profile/7692780#topics",
+      "https://www.wattpad.com/user/downtik",
+      "https://about.me/downtik",
+      "https://www.instapaper.com/p/downtik",
+      "https://www.blogger.com/profile/04861576640859723239",
+      "https://www.reverbnation.com/downtik",
+      "https://www.reddit.com/user/downtik/",
+      "https://giphy.com/channel/downtik",
+      "https://www.goodreads.com/user/show/169056446-downtik",
+      "https://downtik.livejournal.com/profile"
+    ]
+  } 
+}
